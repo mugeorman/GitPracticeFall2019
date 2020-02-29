@@ -7,6 +7,7 @@ public class LoopPractice {
             System.out.println("Counter : "+i);
         }
 
+        System.out.println("######%%%%%");
 
 
 
